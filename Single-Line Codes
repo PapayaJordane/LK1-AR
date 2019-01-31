@@ -3,3 +3,6 @@ Enough gold:
 
 99 Fairies in Fairy House:
 00139823 00000063
+
+Enough EXP (when you win a fight, anything in your deck is awarded 65,535 exp)
+0219FBCC 0000FFFF
