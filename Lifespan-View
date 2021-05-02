@@ -1,0 +1,9 @@
+0400FB60 496F04A8
+05700004 80BF0000
+05700008 80A5007C
+0570000C 4A90FB58
+042CA4C8 48505370
+022CA4CC 0000616E
+
+
+This code changes the game so it shows you the Lifespan variable in the card specs menu for independents. It replaces the Max HP portion of the specs.
